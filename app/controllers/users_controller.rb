@@ -25,6 +25,7 @@ class UsersController < ApplicationController
   # GET /users/new.json
   def new
     @user = User.new
+<<<<<<< HEAD
 
     respond_to do |format|
       format.html # new.html.erb
@@ -79,5 +80,22 @@ class UsersController < ApplicationController
       format.html { redirect_to users_url }
       format.json { head :no_content }
     end
+=======
+>>>>>>> sign-up
   end
+
+  def show
+    @user=User.find(params[:id])
+  end
+
+  def create
+    @user = User.new(params[:user])
+    if @user.save
+      flash[:success] = "Welcome to the Sample App!"
+      redirect_to @user
+    else
+      render 'new'
+    end
+  end
+
 end
