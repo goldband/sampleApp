@@ -1,4 +1,7 @@
 SampleApp::Application.routes.draw do
+  resources :microposts
+  resources :users
+
   get "users/new"
 
   match '/help',    to: 'static_pages#help'
