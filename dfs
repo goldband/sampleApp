@@ -1,0 +1,77 @@
+[33mcommit 979031f8fd993d1b08ae954dd4c603e2bf56eac4[m
+Author: Steve Goldband <steve@goldband.com>
+Date:   Tue Jun 26 09:26:11 2012 -0700
+
+    pw works
+
+[33mcommit 6282f8fbe42eb9151e7bc27a703fa3979c9b133e[m
+Author: Steve Goldband <steve@goldband.com>
+Date:   Sat Jun 23 22:58:32 2012 -0700
+
+    nasic user model2
+
+[33mcommit 649edf342944b1b672bf9e217dd4309781ed387b[m
+Author: Steve Goldband <steve@goldband.com>
+Date:   Sat Jun 23 22:34:59 2012 -0700
+
+    nasic user model
+
+[33mcommit bf584c314c453f78e47420e7cced000062733951[m
+Author: Steve Goldband <steve@goldband.com>
+Date:   Sat Jun 23 14:47:57 2012 -0700
+
+    Finished layout and routes
+
+[33mcommit ba8583137710a359939fd42692f27c821c18f727[m
+Author: Steve Goldband <steve@goldband.com>
+Date:   Sat Jun 23 14:31:40 2012 -0700
+
+    Finished layout and routes
+
+[33mcommit 929c76b42b3c3dcc63ed1dc39d59cb1412332dae[m
+Author: Steve Goldband <steve@goldband.com>
+Date:   Sat Jun 23 14:11:10 2012 -0700
+
+    up to 5.3.3
+
+[33mcommit 483ef549164091eecef7d86689a1b6434bb26c21[m
+Author: Steve Goldband <steve@goldband.com>
+Date:   Sat Jun 23 14:08:14 2012 -0700
+
+    up to 5.3.3
+
+[33mcommit 0f031c98cc09388507f765a5db19b8a4a36f899e[m
+Author: goldband <steve@goldband.com>
+Date:   Fri Jun 22 15:59:04 2012 -0700
+
+    Update master
+
+[33mcommit 98b1324af55ba403b4f488250c073d3aabdcc8ca[m
+Author: goldband <steve@goldband.com>
+Date:   Fri Jun 22 15:58:11 2012 -0700
+
+    Update master
+
+[33mcommit 38be03032a9a3a7887566612daae738efec09a9c[m
+Author: Steve Goldband <steve@goldband.com>
+Date:   Fri Jun 22 15:22:07 2012 -0700
+
+    add a full title helper
+
+[33mcommit c7e5962d569ceef6c1dfd47de3b708e8e750283d[m
+Author: Steve Goldband <steve@goldband.com>
+Date:   Fri Jun 22 10:48:35 2012 -0700
+
+    Finish static pages
+
+[33mcommit deab977cfb5479137baf8aecaa653e61a34e1022[m
+Author: Steve Goldband <steve@goldband.com>
+Date:   Fri Jun 22 09:52:17 2012 -0700
+
+    add staticpage controller
+
+[33mcommit 7f01f85644402ae59a639fe3665f63e0d9016d1d[m
+Author: Steve Goldband <steve@goldband.com>
+Date:   Fri Jun 22 09:37:57 2012 -0700
+
+    initial commitment
